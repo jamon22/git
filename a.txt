@@ -1,3 +1,5 @@
 Teste
 Entendo o HEAD
 Esta linha foi modificada no tamo Master
+Entendendo o HEAD
+Esta linha foi modificada no ramo TESTE
